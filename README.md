@@ -22,6 +22,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2270-number-of-ways-to-split-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -229,6 +230,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Combinatorics
