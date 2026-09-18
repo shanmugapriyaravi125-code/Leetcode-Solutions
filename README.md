@@ -28,6 +28,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -165,6 +166,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3536-maximum-product-of-two-digits](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Monotonic Stack
@@ -182,6 +184,7 @@
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Enumeration
 |  |
 | ------- |
