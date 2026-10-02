@@ -10,7 +10,6 @@ class Solution {
             min=nums[i];
             for(int j=i;j<n;j++)
                min=Math.min(nums[j],min);   
-            System.out.println(max+" "+min);
           if(max-min <=k)
            return i;
         }
