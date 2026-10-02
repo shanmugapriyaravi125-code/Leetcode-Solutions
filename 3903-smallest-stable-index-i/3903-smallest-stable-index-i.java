@@ -6,10 +6,10 @@ class Solution {
 
         for(int i=0;i<n;i++)
         {
-            max=Math.max(nums[i],max);
+            if(nums[i]>max)max=nums[i];
            int min=nums[i];
             for(int j=i;j<n;j++)
-               min=Math.min(nums[j],min);   
+               if(nums[j]<min)min=nums[j];  
           if(max-min <=k)
            return i;
         }
