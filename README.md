@@ -35,6 +35,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -243,6 +244,7 @@
 | [2270-number-of-ways-to-split-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3903-smallest-stable-index-i](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Combinatorics
 |  |
 | ------- |
