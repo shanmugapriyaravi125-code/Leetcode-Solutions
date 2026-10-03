@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -62,6 +64,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -177,6 +180,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
