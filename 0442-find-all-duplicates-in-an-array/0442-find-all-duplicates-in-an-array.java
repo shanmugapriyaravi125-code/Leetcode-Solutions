@@ -4,9 +4,10 @@ class Solution {
      Set<Integer> st = new TreeSet<>();
      for(int i:nums)
      {
-     if(st.contains(i))
-      l.add(i);
-    st.add(i);
+     if(st.add(i))
+       st.add(i);
+     else
+     l.add(i);  
      }
 return l;
     }
