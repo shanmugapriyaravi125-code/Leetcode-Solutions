@@ -26,6 +26,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2270-number-of-ways-to-split-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2270-number-of-ways-to-split-array) |
+| [2284-sender-with-largest-word-count](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2284-sender-with-largest-word-count) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -50,6 +51,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2284-sender-with-largest-word-count](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2284-sender-with-largest-word-count) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -65,6 +67,7 @@
 | [0917-reverse-only-letters](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1528-shuffle-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [2000-reverse-prefix-of-word](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2284-sender-with-largest-word-count](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2284-sender-with-largest-word-count) |
 | [2390-removing-stars-from-a-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3794-reverse-string-prefix](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
@@ -96,6 +99,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2284-sender-with-largest-word-count](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2284-sender-with-largest-word-count) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Linked List
 |  |
