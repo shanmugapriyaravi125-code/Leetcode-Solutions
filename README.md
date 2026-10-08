@@ -36,6 +36,7 @@
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3115-maximum-prime-difference](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3115-maximum-prime-difference) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -162,6 +163,7 @@
 | [0836-rectangle-overlap](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [2396-strictly-palindromic-number](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3115-maximum-prime-difference](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3115-maximum-prime-difference) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3536-maximum-product-of-two-digits](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -206,6 +208,7 @@
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3115-maximum-prime-difference](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
@@ -285,4 +288,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
