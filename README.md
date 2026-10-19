@@ -24,6 +24,7 @@
 | [1528-shuffle-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1528-shuffle-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1991-find-the-middle-index-in-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -181,6 +182,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Sorting
 |  |
@@ -194,6 +196,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0692-top-k-frequent-words) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
