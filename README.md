@@ -80,6 +80,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2284-sender-with-largest-word-count](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2284-sender-with-largest-word-count) |
 | [2390-removing-stars-from-a-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2785-sort-vowels-in-a-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3794-reverse-string-prefix](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Stack
@@ -199,6 +200,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2576-find-the-maximum-number-of-marked-indices) |
+| [2785-sort-vowels-in-a-string](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3536-maximum-product-of-two-digits](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
