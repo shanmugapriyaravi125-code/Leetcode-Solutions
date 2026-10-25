@@ -159,6 +159,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shanmugaravi577-commits/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
